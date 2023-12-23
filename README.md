@@ -14,4 +14,4 @@ Implementing Various Sensor Fusion Techniques by incorporating Object Detection 
 ![ezgif com-video-to-gif-2](https://github.com/prtk1729/Sensor_Fusion_Paper/assets/43796382/e408930c-556a-464f-af30-ad024ca7e8c5)
 
 
-![Uploading ezgif.com-video-to-gif.gif…]()
+
