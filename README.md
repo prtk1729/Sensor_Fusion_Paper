@@ -1,4 +1,4 @@
-# Sensor_Fusion_Paper
+# Sensor Fusion ( early Fusion and Late Fusion )
 Implementing Various Sensor Fusion Techniques by incorporating Object Detection Techniques
 
 
